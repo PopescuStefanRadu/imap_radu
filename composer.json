@@ -1,0 +1,15 @@
+{
+  "name": "eaudeweb/imap_service",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "tedivm/fetch": "v0.7.1"
+  }
+}
